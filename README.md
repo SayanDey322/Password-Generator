@@ -31,7 +31,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/SayanDey322/password-generator.git
+git clone https://github.com/SayanDey322/Password-Generator.git
 Open index.html in your browser.
 
 Generate strong passwords with a click!!
